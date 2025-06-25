@@ -1,4 +1,4 @@
 # Demo
 This is my first Repository.
 <br>
-Author - Om Narkar
+Author - Om Sudhir Narkarg
